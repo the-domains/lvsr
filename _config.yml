@@ -1,0 +1,29 @@
+name: lvsr
+favicon: null
+layout_spectrum: 0.8623538466636091
+typography_spectrum: 0.32731912308372557
+title: lvsr Portfolio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7498508126009256
+  lightness: 0.8388949155341834
+  saturation: 0.2567995844874531
+  rhythmicContrast: 0.1574000276159495
+purpose: []
