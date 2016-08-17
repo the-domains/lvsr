@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LVSR DESIGN PORTFOLIO]]></title>
+        <description><![CDATA[LVSR DESIGN PORTFOLIO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 15:28:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Personnal Identity ]]></title>
+            <description><![CDATA[<article><h1>New Personnal Identity </h1><p>Showcase of my new personnal identity</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fb86147-19b0-4b80-b26d-991b78e1f250.jpg"></article>]]></description>
+            <link>undefinednew-personnal-identity/index.html</link>
+            <guid isPermaLink="false">ed0cd3df-a998-4d80-83a7-904c63646d60</guid>
+            <pubDate>Wed, 17 Aug 2016 15:28:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
