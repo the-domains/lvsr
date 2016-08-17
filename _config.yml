@@ -1,7 +1,8 @@
 name: lvsr
 favicon: null
-layout_spectrum: 0.8623538466636091
-typography_spectrum: 0.32731912308372557
+layout_spectrum: 0.74793
+typography_spectrum: 0.30957
+title: LVSR DESIGN PORTFOLIO
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7498508126009256
-  lightness: 0.8388949155341834
-  saturation: 0.2567995844874531
-  rhythmicContrast: 0.1574000276159495
+    - '#ffffff'
+    - '#262626'
+    - '#01ec73'
+    - '#d6c2ad'
+    - '#bea289'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.6875
+  rhythmicContrast: 0
 purpose: []
