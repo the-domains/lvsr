@@ -1,29 +1,41 @@
-name: lvsr
-favicon: null
-layout_spectrum: 0.74793
-typography_spectrum: 0.30957
 title: LVSR DESIGN PORTFOLIO
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#FEAD20'
+    - '#3C3C3C'
+    - '#777777'
+  rhythmicContrast: 0
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: lvsr
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#262626'
-    - '#01ec73'
-    - '#d6c2ad'
-    - '#bea289'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.6875
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.4964158
+layout_spectrum: 1
